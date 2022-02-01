@@ -1,9 +1,14 @@
 /*
 Theme Name: Made by Matthew Bishop
 Text Domain: 
-Version: 1.0
+Version: 0.1.1
 Description: My first theme to help me learn how it is made and test my skills in PHP and WordPress.
 Tags: first-page, newtoPHP, newtoWordPress
 Author: Matthew Bishop
 Author URI: https://www.mtbishop.com
 */
+
+h1 {
+  font-size: 150px;
+  color: rebeccapurple;
+}
